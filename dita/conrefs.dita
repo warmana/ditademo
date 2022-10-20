@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="conrefs">
+	<title>conref library</title>
+	<body>
+		<!-- To use a content reference from this library, include a line similar to the following:
+            <topic id="some-content" conref="conrefs.dita#some-content"><title/></topic>
+            ... which would incorporate the 'some-content' topic.
+
+			Another example:
+			<ph conref="conrefs.dita#conrefs/ditademolong"/>
+
+            The actual syntax for a conref target can be a bit confusing. The DITA reference material here:
+            https://docs.oasis-open.org/dita/v1.1/OS/langspec/common/theconrefattribute.html
+            ... is excellent and has clear examples of how to refer to what you want.
+         -->
+
+
+		<p>
+			<ph id="ditademo">DITA Demo</ph>
+			<ph id="ditademolong">DITA Demonstration toolkit</ph>
+		</p>
+	</body>
+
+
+</topic>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="homepage">
+	<title><ph conref="conrefs.dita#conrefs/ditademolong"/></title>
+	<body>
+		<p>The <ph conref="conrefs.dita#conrefs/ditademolong"/> is a minimal collection of content source files,
+		intended to be used to demonstrate Content Operations ('ContentOps') concepts.</p>
+	</body>
+
+</topic>

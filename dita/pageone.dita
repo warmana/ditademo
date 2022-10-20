@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pageone">
+	<title><ph conref="conrefs.dita#conrefs/ditademolong"/>: Page One</title>
+	<body>
+		<p>This is page one of the <ph conref="conrefs.dita#conrefs/ditademolong"/>.</p>
+        <p>It is used to illustrate changes made within the <ph conref="conrefs.dita#conrefs/ditademo"/> environment.</p>
+	</body>
+
+</topic>
